@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/zorator/kata-game-score-js)](https://repl.it/github/zorator/kata-game-score-js)
+
 # Kata de comptage du score d'un jeu
 
 Ce Kata a pour objectif de développer une application de comptage du score d'un jeu.
