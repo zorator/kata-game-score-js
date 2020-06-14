@@ -1,4 +1,4 @@
-import Game from "../game";
+import Game from "./game";
 import chai from "chai";
 
 let expect = chai.expect;

@@ -6,10 +6,10 @@ Il fonctionne en Javascript ES6, avec une partie Test.
 
 Le but est d'ajouter les fonctionnalités en utilisant le TDD.
 
-Les US à développer sont disponibles sur Trello :
- - Bowling : https://trello.com/b/Tsd0NcyO/bowling
- - Mölkky : https://trello.com/b/YDlUxX1S/molkky
-
+Les US à développer sont disponibles dans les Readme associés : 
+ - Bowling : BOWLING.md
+ - Môlkky : MOLKKY.md
+ 
 ## Installation du projet
 
 Tout d'abord, se placer sur sa propre branche de développement, puis installer le projet avec `npm`
