@@ -18,7 +18,7 @@ Tout d'abord, se placer sur sa propre branche de développement, puis installer 
 
 Téléchargement des sources
 ```bash
-npm install
+npm ci
 ```
 
 Lancement des tests à la volée
@@ -27,5 +27,6 @@ npm run test:watch
 ```
 
 ## Stack technique
+ * Node v16
  * Langage : Javascript ES6
  * Framework de test : Mocha + Chai
